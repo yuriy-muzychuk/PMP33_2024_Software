@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "IMDB": "Server=Firefly;Database=IMDB2024_Test1;Integrated Security=True;TrustServerCertificate=True"
+  }
+}
