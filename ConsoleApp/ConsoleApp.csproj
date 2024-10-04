@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DALEF\DALEF.csproj" />
     <ProjectReference Include="..\DALWithEF\DALWithEF.csproj" />
     <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>
